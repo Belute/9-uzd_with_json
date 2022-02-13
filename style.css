@@ -7,29 +7,11 @@ body {
 }
 
 
-/* body > div {
-    position: relative;
-} */
 
 
-
-
-/* .img-text {
-    position: absolute;
-    color: #fff;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    font-size: 60px;
-    color: aquamarine;
-
-}
-
-.btn {
-  margin-top: 600px;
-  margin-left: 1000px;
-  color:aqua  !important;
-  width: 500px  !important;
-} */
+ .btn {
+background-color: orangered;
+border-radius: 15px;
+} 
 
 
